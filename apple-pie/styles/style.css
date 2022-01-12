@@ -85,10 +85,9 @@ ol {
 }
 
 p {
-  text-align: center;
   margin: 0 0;
   padding: 75px 10% 50px 10%;
-  font-size: 24px;
+  font-size: 26px;
 }
 
 h2 {
@@ -106,4 +105,8 @@ hr {
   margin-right: auto;
   margin-left: auto;
   border-bottom: 1px solid;
+}
+
+li {
+  font-size: 22px;
 }
