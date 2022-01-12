@@ -88,4 +88,22 @@ p {
   text-align: center;
   margin: 0 0;
   padding: 75px 10% 50px 10%;
+  font-size: 24px;
+}
+
+h2 {
+  padding: 75px 10% 0 10%;
+  color: black;
+}
+
+ul {
+  padding: 0 10% 0 10%;
+  list-style: none;
+}
+
+hr {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  border-bottom: 1px solid;
 }
