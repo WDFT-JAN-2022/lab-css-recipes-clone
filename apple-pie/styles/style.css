@@ -83,3 +83,9 @@ ol {
 .content {
   margin: 0px 100px;
 }
+
+p {
+  text-align: center;
+  margin: 0 0;
+  padding: 75px 10% 50px 10%;
+}
